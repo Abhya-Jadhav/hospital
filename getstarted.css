@@ -1,0 +1,12 @@
+background {
+			background: grey;
+			background-blend-mode: darken;
+			background-size: cover;
+
+		}
+.firstsection {
+			height: 100vh;
+			margin-top: 70px;
+			margin-right: 50px;
+			padding-left: 40px;
+		}
